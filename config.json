@@ -1,0 +1,82 @@
+{
+    "app-screenshots" : [
+        "anasayfa.png",
+        "kıble-pusulası.png"
+    ],
+    "app-icon-image" : "logo.png",
+    "app-short-description" : "Prayer times for countries all over the world. Wherever you are in the world, you can reach the prayer times immediately. With the qibla compass module in the application, you can learn the direction of the qibla along with its angle. Developed by BeatiApp.",
+    "application-title" : "Prayer Times",
+    "ios-support" : true,
+    "android-support" : true,
+    "rgb-background-color" : [255,255,255],
+    "isFree" : true,
+    "price" : "",
+    "play-store-id" : "com.beatiapp.namazvakitleriapp", 
+    "app-store-id" : "sahibinden-com-al-sat-kirala/id418535251",
+    "long-description-list" : [
+     {
+         "svg-icon" : "pray.svg",
+         "title" : "Lorem ipsum dolor sit amet",
+         "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae nibh nec justo ornare imperdiet eget vitae lectus. Suspendisse sit amet purus neque. Pellentesque congue est tempor, imperdiet elit at, blandit velit. Integer quis laoreet purus, vel lacinia enim. ",
+         "icon-background-color" : [13, 89, 54]
+     },
+     {
+        "svg-icon" : "pray.svg",
+        "title" : "Lorem ipsum dolor sit amet",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae nibh nec justo ornare imperdiet eget vitae lectus. Suspendisse sit amet purus neque. Pellentesque congue est tempor, imperdiet elit at, blandit velit. Integer quis laoreet purus, vel lacinia enim. ",
+        "icon-background-color" : [13, 89, 54]
+    },   
+    {
+        "svg-icon" : "pray.svg",
+        "title" : "Lorem ipsum dolor sit amet",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae nibh nec justo ornare imperdiet eget vitae lectus. Suspendisse sit amet purus neque. Pellentesque congue est tempor, imperdiet elit at, blandit velit. Integer quis laoreet purus, vel lacinia enim. ",
+        "icon-background-color" : [13, 89, 54]
+    },   
+    {
+        "svg-icon" : "pray.svg",
+        "title" : "Lorem ipsum dolor sit amet",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae nibh nec justo ornare imperdiet eget vitae lectus. Suspendisse sit amet purus neque. Pellentesque congue est tempor, imperdiet elit at, blandit velit. Integer quis laoreet purus, vel lacinia enim. ",
+        "icon-background-color" : [13, 89, 54]
+    },   
+    {
+        "svg-icon" : "pray.svg",
+        "title" : "Lorem ipsum dolor sit amet",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae nibh nec justo ornare imperdiet eget vitae lectus. Suspendisse sit amet purus neque. Pellentesque congue est tempor, imperdiet elit at, blandit velit. Integer quis laoreet purus, vel lacinia enim. ",
+        "icon-background-color" : [13, 89, 54]
+    },   
+    {
+        "svg-icon" : "pray.svg",
+        "title" : "Lorem ipsum dolor sit amet",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae nibh nec justo ornare imperdiet eget vitae lectus. Suspendisse sit amet purus neque. Pellentesque congue est tempor, imperdiet elit at, blandit velit. Integer quis laoreet purus, vel lacinia enim. ",
+        "icon-background-color" : [13, 89, 54]
+    }   
+    ],
+    "description-title-style" : {
+     "color" : [156, 156, 156],
+     "font-size" : 18,
+     "font-weight" : "semi-bold"
+    },
+    "description-style" : {
+        "color" : [13, 13, 13],
+        "font-size" : 15,
+        "font-weight" : "regular"
+    },
+    "title-text-style" : {
+        "color" : [13, 13, 13],
+        "font-size" : 15,
+        "font-weight" : "bold"
+    },
+    "social-media-accounts" : [
+        {
+            "svg-icon" : "instagram.svg",
+            "color" : [0,0,0],
+            "link" : "https://www.instagram.com/beatiapp/"
+        },
+        {
+            "svg-icon" : "internet.svg",
+            "color" : [0,0,0],
+            "link" : "https://beatiapp.com"
+        }
+    ]
+    
+}
