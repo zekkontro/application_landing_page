@@ -31,6 +31,7 @@
 | **social-media-accounts** | Application's social media accounts. Icon Format is svg and root directory is **assets/svg/**|
 
 <br>
+
 ### Build Website
 
 Run command on your root directory
